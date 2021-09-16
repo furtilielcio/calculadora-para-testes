@@ -1,11 +1,11 @@
 Calculador para Aprendizagem da Estrutura Base do Python
 
 O código basicamente efetua operações de:
-+ Adição
+- Adição
 - Subtração
-/ Divisão
-* Multiplicação
-% Percentual
+- Multiplicação
+- Divisão
+- Percentual
 
 Também possui um Histórico que salva todas as Operações Realizadas na Sessão
 Interface Modelo DOS
